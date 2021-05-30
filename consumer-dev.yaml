@@ -1,1 +1,3 @@
-testkey1: testvalue1
+branch: test
+appname: consumer
+version: 0.0.1
