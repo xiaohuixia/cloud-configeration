@@ -1,1 +1,3 @@
-providerkey: providervalue
+branch: main
+appname: provider
+version: 0.0.1
